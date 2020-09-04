@@ -28,3 +28,10 @@
     border: 1px solid white;
     background: #043b72 ;
 }
+
+.card-img-top{
+    width: 70px;
+  display: flex;
+  align-self: center;
+  
+}
